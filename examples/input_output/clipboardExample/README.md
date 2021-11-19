@@ -14,7 +14,7 @@ When launching this app, you should see a screen with instructions on how to acc
 
 Instructions for use:
 
-* Press ```1``` to send "Hello Works" to the clipboard
+* Press ```1``` to send "Hello World" to the clipboard
 * Press ```2``` to show the clipboard content
 
 ### Other classes used in this file
